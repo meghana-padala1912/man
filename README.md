@@ -1,1 +1,8 @@
 # man
+
+
+mango
+
+apple
+
+fruits
